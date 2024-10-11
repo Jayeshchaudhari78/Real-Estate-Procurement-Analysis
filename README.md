@@ -2,12 +2,12 @@
 
 ## Project Summary
 
-This project is a comprehensive procurement analysis dashboard designed in Power BI. It provides in-depth insights into procurement activities across multiple locations and project types, showcasing metrics related to orders, reorders, materials, costs, suppliers, and payment statuses. The dashboard enables management teams to make data-driven decisions for optimizing the procurement process, improving efficiency, and reducing costs.
+This project is a comprehensive procurement analysis dashboard designed in Power BI. It provides in-depth insights into procurement activities across multiple locations and project types, showcasing metrics related to orders, reorders, materials, costs, suppliers, and payment statuses. The dashboard enables management teams to make data-driven decisions to optimize the procurement process, improve efficiency, and reduce costs.
 
-The dashboard is fully interactive and provides a clear and visually engaging way to explore critical procurement KPIs, monitor supplier performance, assess material costs, and track delivery statuses for ongoing and completed projects.
+The interactive dashboard provides a clear and visually engaging way to explore critical procurement KPIs, monitor supplier performance, assess material costs, and track delivery statuses for ongoing and completed projects.
 
 ## Table of Contents
-Project Summary
+## Project Summary
 
 Key Features
 
@@ -23,11 +23,9 @@ Technologies Used
 
 How to Use the Dashboard
 
-Screenshots
-
 Conclusion
 
-Key Features
+## Key Features
 
 ## 1. Key Metrics
 
@@ -35,13 +33,13 @@ The dashboard focuses on a set of vital metrics that drive the procurement analy
 
 Total Procurement Cost: 2.22bn across various projects.
 
-Projects Count: 10K ongoing and completed projects.
+Projects Count 10K ongoing and completed projects.
 
 Total Orders: 25M procurement orders processed.
 
 Reorders: 3M representing additional orders made to meet ongoing project demands.
 
-Suppliers: 20 active suppliers involved in the procurement process.
+Suppliers: 20 active suppliers are involved in the procurement process.
 
 On-Time Deliveries: 74.91% reflecting the efficiency of the procurement chain in delivering materials within the expected timeline.
 
