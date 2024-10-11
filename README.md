@@ -7,7 +7,7 @@ This project is a comprehensive procurement analysis dashboard designed in Power
 The interactive dashboard provides a clear and visually engaging way to explore critical procurement KPIs, monitor supplier performance, assess material costs, and track delivery statuses for ongoing and completed projects.
 
 ## Table of Contents
-## Project Summary
+Project Summary
 
 Key Features
 
